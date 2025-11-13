@@ -1,21 +1,10 @@
-## Primera versión del proyecto
+## REPOSITORIO PARA DESARROLLO WEB EN ENTORNO CLIENTE
 
-Este repositorio contiene la **primera versión** del proyecto, desarrollada **sin consultar información externa**.  
-No se si podría haberlo hecho mejor sin consultar nada extra.
+Cada carpeta contiene el README de cada ejercicio que suba a lo largo del curso. En el que explique
+las respectivas dificultades que tenga en cada caso.
 
----
-
-**NO** he sabido separar la interfaz del código antes de haber acudido a clase. Así que de manera honesta
-en vez de implementarlo, lo desarrollaré mejor para el próximo proyecto, ya que creo haberme hecho a la
-idea de como realizarlo.
+Todo lo que suba a este repositorio seran **entregas** y versiones hechas 100% **a mano**, para no 
+manchar el código con herramientas externas.
 
 ---
-
-## Estado del proyecto
-
-Esta es la **primera versión funcional**.  
-Seguiré trabajando en mejorar la estructura, la organización del código y la parte visual.
-Sobre todo a lo largo de los días, fuera de la entrega, para llegar a hacer un Submarino perfecto.
-
-Esto es lo máximo que he podido hacer **por ahora**.
-
+**contacto** -> mherpad@ieszaidinvergeles.org
