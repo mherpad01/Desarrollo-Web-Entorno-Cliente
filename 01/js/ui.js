@@ -22,10 +22,12 @@ function creaGridTemplate(plantilla, tabla) {
             if (newTablero.Submarino.x === (i % config.size) + 1 && newTablero.Submarino.y === Math.floor(i / config.size) + 1) {
                 console.log('Has ganado!')
                 alert('WIN');
+                event.target.style.backgroundColor = 'green';
+
             }
             else
-                event.target.style.visibility = 'hidden';
-                event.target.style.backgroundColor = 'green';
+                console.log("Fallastes!")
+                newTablero.Submarino.move(config.size);
         });
         casilla.dataset.fila = Math.floor(i / config.size);
         casilla.dataset.columna = i % config.size;
