@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+
+}
+
+#Tablero {
+    width: 100vh;
+    height: 100vh;
+
+    display: flex;
+
+    .casilla {
+        width: 25vh;
+        height: 25vh;
+        border: 1px solid black;
+        background-color: #aaaaaaff;
+    }
+
+    #tecla-1 {
+    }
+
+    #tecla-2 {
+    }
+
+    #tecla-3 {
+    }
+
+    #tecla-4  {
+    }
+
+}

@@ -8,3 +8,11 @@ manchar el código con herramientas externas.
 
 ---
 **contacto** -> mherpad@ieszaidinvergeles.org
+
+---
+## ESTRUCTURA: 
+
+**01_Entrega_Submarino_Primera_Version'** -> Repositorio de entrega primer ejercicio.
+
+**Pruebas_Ejercicio_Simon** -> Este repositorio no es ninguna entrega, es únicamente para ver algunos
+de mis ejercicios de repaso.

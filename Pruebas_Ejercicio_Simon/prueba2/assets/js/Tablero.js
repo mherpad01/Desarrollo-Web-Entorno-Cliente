@@ -1,0 +1,1 @@
+import { Tecla } from "./Tecla.js";
